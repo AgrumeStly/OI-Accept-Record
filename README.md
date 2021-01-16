@@ -2,7 +2,7 @@
 - 记录一下所有 **非过于简单** 题的记录。
 - 模板题记录
 
-[Link](./tree/master)
+[Link](https://github.com/Geometry37/OI-Accept-Record/tree/master)
 
 主要 OJ：
 - Luogu
